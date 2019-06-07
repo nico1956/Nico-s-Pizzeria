@@ -1,0 +1,12 @@
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\bin\Debug\Nico's Pizzeria.exe.config
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\bin\Debug\Nico's Pizzeria.exe
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\bin\Debug\Nico's Pizzeria.pdb
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\bin\Debug\Nico's Pizzeria.xml
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\obj\Debug\Nico's Pizzeria.vbprojAssemblyReference.cache
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\obj\Debug\Nico_s_Pizzeria.Form1.resources
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\obj\Debug\Nico_s_Pizzeria.Resources.resources
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\obj\Debug\Nico's Pizzeria.vbproj.GenerateResource.cache
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\obj\Debug\Nico's Pizzeria.vbproj.CoreCompileInputs.cache
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\obj\Debug\Nico's Pizzeria.exe
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\obj\Debug\Nico's Pizzeria.xml
+C:\Users\Nico\Desktop\IHCC\Visual Basic\Nico's Pizzeria 04-08-19\Nico's Pizzeria\obj\Debug\Nico's Pizzeria.pdb
